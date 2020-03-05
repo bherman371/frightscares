@@ -1,0 +1,249 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: darkred;
+}
+
+h2 {
+    color: darkred;
+}
+
+button {
+    height: 35px;
+    background-color: darkred;
+    border-color: darkred;
+}
+
+p {
+    color: darkred;
+}
+
+u {
+    color: darkred;
+}
+
+.title {
+    background-color: orangered;
+    text-align: center;
+    padding: 5px;
+}
+
+.titlechapterone {
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+    padding: 5px;
+}
+
+.titleisolation {
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+.titleclaustrophobia {
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+    padding: 5px;
+}
+
+.titlechaos {
+    background-color: darkred;
+    text-align: center;
+    padding: 5px;
+}
+
+.titlebeast {
+    background-color: rgb(0, 36, 0);
+    text-align: center;
+    padding: 5px;
+}
+
+.titleentomophobia {
+    background-color: rgb(112, 73, 0);
+    text-align: center;
+    padding: 5px;
+}
+
+.body {
+    background-color: orangered;
+    height: 560px;
+}
+
+.bodychapterone {
+    background-color: rgb(59, 59, 59);
+    height: 560px;
+}
+
+.bodyisolation {
+    background-color: black;
+    height: 750px;
+}
+
+.bodyclaustrophobia {
+    background-color: rgb(59, 59, 59);
+    height: 720px;
+}
+
+.bodychaos {
+    background-color: darkred;
+    height: 770px;
+}
+
+.bodybeast {
+    background-color: rgb(0, 36, 0);
+    height: 755px;
+}
+
+.bodyentomophobia {
+    background-color: rgb(112, 73, 0);
+    height: 750px;
+}
+
+.h1chapterone {
+    color: red;
+}
+
+.h1isolation {
+    color: white;
+}
+
+.h1claustrophobia {
+    color: gray;
+}
+
+.h1chaos {
+    color: red;
+}
+
+.h1beast {
+    color: rgb(44, 44, 44);
+}
+
+.h1entomophobia {
+    color: rgb(163, 133, 76);
+}
+
+.h2chapterone {
+    color: red;
+}
+
+.h2isolation {
+    color: white;
+}
+
+.h2claustrophobia {
+    color: gray;
+}
+
+.h2chaos {
+    color: red;
+}
+
+.h2beast {
+    color: rgb(44, 44, 44);
+}
+
+.h2entomophobia {
+    color: rgb(163, 133, 76);
+}
+
+.buttonchapterone {
+    background-color: rgb(59, 59, 59);
+    border-color: rgb(59, 59, 59);
+}
+
+.buttonisolation {
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.buttonclaustrophobia {
+    background-color: gray;
+    border-color: gray;
+}
+
+.buttonchaos {
+    background-color: red;
+    border-color: red;
+}
+
+.buttonbeast {
+    background-color: rgb(44, 44, 44);
+    border-color: rgb(44, 44, 44);
+}
+
+.buttonentomophobia {
+    background-color: rgb(163, 133, 76);
+    border-color: rgb(163, 133, 76);
+}
+
+.pchapterone {
+    color: gray;
+}
+
+.pisolation {
+    color: white;
+}
+
+.pclaustrophobia {
+    color: gray;
+}
+
+.pchaos {
+    color: red;
+}
+
+.pbeast {
+    color: rgb(44, 44, 44);
+}
+
+.pentomophobia {
+    color: rgb(163, 133, 76);
+}
+
+.uchapterone {
+    color: red;
+}
+
+.uisolation {
+    color: white;
+}
+
+.uclaustrophobia {
+    color: gray;
+}
+
+.uchaos {
+    color: red;
+}
+
+.ubeast {
+    color: rgb(44, 44, 44);
+}
+
+.uentomophobia {
+    color: rgb(163, 133, 76);
+}
+
+.liisolation {
+    color: white;
+}
+
+.liclaustrophobia {
+    color: gray;
+}
+
+.lichaos {
+    color: red;
+}
+
+.libeast {
+    color: rgb(44, 44, 44);
+}
+
+.lientomophobia {
+    color: rgb(163, 133, 76);
+}
